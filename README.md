@@ -1,4 +1,4 @@
-#### Commands
+#### Commands a
 
 ```bash
 # install ArgoCD in k8s
